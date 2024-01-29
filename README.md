@@ -1,5 +1,6 @@
 # Team Name Meghan Damen and Kristina Bendzsel
- tag line?? our get to know you github project!
+ Hello! We are very excited to be in the IDP3 program & can't wait to learn more about web design and decelopment. Here is a little bit about us...
+ 
  ## Meghan Damen
  My Hobbies
 - Art: painting, drawinging, digital art, small animations
@@ -12,8 +13,16 @@ Here are my favourite things in my room and my biggest inspiration for everythin
 ![knock off lego flowers](images/legoflowers.jpg)
 I won them in a claw machine arcade :)
 
-***your part goes here***
+## Kristina Bendzsel
+My Hobbies
+- Reading: The most recent books I've read are Gone Girl by Gillian Flynn and Between the World and Me by Ta-Nehisi Coates
+- Puzzles: The best way to wind down after a long day is to throw on a podcast and work on a colourful puzzle for an hour!
+- Music: System of a Down, Bad Omens, Gojira, Rainbow Kitten Suprise
 
+I do a lot of cooking in my spare time and my favourite recipe to make is my grandma's chicken soup. She doesn't speak english so I find the best way to connect with her to cook different foods with her. Some of my best childhood memories include making tortillas with her & my cousins!
+
+Here is a photo of some puzzles I've completed over the past two years - this isn't even half of my collection!
+![shelf full of puzzles](puzzleskb.jpeg)
 ## Installation
 No Installation required
 
